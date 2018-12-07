@@ -1,0 +1,8 @@
+username=awdwad
+password=awd
+IP=49.146.61.70
+
+username=dwad
+password=awd
+IP=49.146.61.70
+
